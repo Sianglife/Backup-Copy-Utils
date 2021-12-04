@@ -1,0 +1,16 @@
+./主.indd
+./BACKUP/
+.indd
+%Y.%m.%d.%H.%M
+
+[Format]
+Source File Path(+Extension)
+Target Folder Path
+Extension
+TimeFormat
+
+[表達格式]
+來源檔案路徑(含副檔名)
+目標資料夾路徑
+副檔名
+時間戳記格式
