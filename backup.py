@@ -1,7 +1,7 @@
 import time
 import shutil
 import os
-f=open('Folder.txt','r',errors='ignore')
+f=open('config.txt','r',errors='ignore')
 get=f.readlines()
 f.close()
 source=get[0][:len(get[0])-1]
